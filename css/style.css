@@ -1,0 +1,50 @@
+body {
+	width: 100%;
+	height: 1800px;
+	margin: 0px;
+}
+#main-section {
+	width: 98%;
+	height: 2500px;
+	background-color: #dfffff;
+	border-radius: 10px;
+	margin: 15px;
+	margin-top: 30px;
+	
+}
+.header {
+	text-align: center;
+	padding: 20px;
+}
+.image-frame {
+	height: 650px;
+	width: 97%;
+	background-color: white;
+	margin-left: 20px;
+}
+.image {
+	width: 80%;
+	padding-left: 100px;
+}
+figcaption {
+	text-align: center;
+}
+.tribute-info {
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}
+li, .quote {
+	margin-left: 400px;
+	text-align: left;
+	margin-right:350px;
+	padding: 10px;
+	line-height: 30px;
+}
+.quote {
+	font-style: italic;
+}
+h2 {
+	text-align: center;
+	margin-left: 0px;
+}
